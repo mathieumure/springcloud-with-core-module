@@ -1,0 +1,3 @@
+spring.cloud.config.server.native.searchLocations: classpath:/repository
+spring.profiles.include: native
+server.port: 8888

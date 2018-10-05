@@ -1,0 +1,4 @@
+spring.application.name: webapp
+logging.level:
+  ROOT: INFO
+  org.springframework.boot: DEBUG
